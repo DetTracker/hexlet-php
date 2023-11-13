@@ -1,0 +1,15 @@
+{
+    "name": "admin/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Admin\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DetTracker",
+            "email": "dt3d@yandex.ru"
+        }
+    ],
+    "require": {}
+}
